@@ -4,3 +4,6 @@
 .service-form {background-color: none;
 
 }
+.service-img {
+    display: flex;
+}
