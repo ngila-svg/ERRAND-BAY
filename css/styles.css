@@ -2,7 +2,8 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: black;
-    
+    font-style: oblique;
+
 }
 .pp1{
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/back4.jpg")center/ cover no-repeat fixed;
@@ -18,7 +19,8 @@
 }
 
 h2 {
-    text-align: center
+    text-align: center;
+    color: blue;
 }
 
 
