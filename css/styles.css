@@ -6,4 +6,12 @@
 }
 .service-img {
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+#home {
+    float: left;
+}
+#elect {
+    float: center;
 }
