@@ -36,3 +36,7 @@ h1{
  header{
      display: block;
  }
+ .bluebox{
+    background-color: #43c9e1;
+     color: #fff;
+ }
