@@ -1,0 +1,32 @@
+ #form-card { background-color:clear;
+    align-content: center;
+    margin-left: 20%;
+    background-color: none;
+}
+.service-form {background-color: none;
+
+} 
+.srv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#home {
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+#electrical {
+    height: 250px;
+    width: 250px;
+}
+#security {
+    height: 250px;
+    width: 250px;
+    
+}
+#team {
+    height: 250px;
+    width: 250px;
+}
