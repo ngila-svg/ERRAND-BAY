@@ -49,5 +49,11 @@ h1{
      display: flex;
     
  }
- 
+ .main p{
+text-align: center;
+color: purple;
+font-style: italic;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
  
