@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #about{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
@@ -52,3 +53,11 @@ h2 {
 a{
     color: #fff;
 }
+=======
+#form-card { background-color:clear;
+    align-items: center;
+}
+.service-form {background-color: none;
+
+}
+>>>>>>> origin/development
