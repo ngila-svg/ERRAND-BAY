@@ -24,3 +24,8 @@ h1{
  h4{
      color: blue;
  }
+ h6{
+     color: blue;
+     font: bolder;
+     font-size: 50px;
+ }
