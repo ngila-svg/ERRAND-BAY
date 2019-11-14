@@ -1,11 +1,17 @@
 @charset "UTF-8";
 
 /*!
+
  * animate.css -https://daneden.github.io/animate.css/
  * Version - 3.7.2
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
  * Copyright (c) 2019 Daniel Eden
+ * animate.css -http://daneden.me/animate
+ * Version - 3.7.0
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2018 Daniel Eden
  */
 
 @-webkit-keyframes bounce {
@@ -3621,5 +3627,13 @@
     transition-duration: 1ms !important;
     -webkit-animation-iteration-count: 1 !important;
     animation-iteration-count: 1 !important;
+  }
+}
+@media (print), (prefers-reduced-motion) {
+  .animated {
+    -webkit-animation: unset !important;
+    animation: unset !important;
+    -webkit-transition: none !important;
+    transition: none !important;
   }
 }
