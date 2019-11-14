@@ -1,17 +1,30 @@
-#form-card { background-color:clear;
+ #form-card { background-color:clear;
     align-items: center;
 }
 .service-form {background-color: none;
 
-}
-.service-img {
+} 
+.srv {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
 }
+
 #home {
+    height: 150px;
+    width: 150px;
     float: left;
 }
-#elect {
-    float: center;
+#electrical {
+    height: 150px;
+    width: 150px;
+}
+#security {
+    height: 150px;
+    width: 150px;
+    float: right;
+}
+#team {
+    height: 150px;
+    width: 150px;
 }
