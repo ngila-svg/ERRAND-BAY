@@ -43,8 +43,11 @@ h1{
    font-weight: bold;
 }
  .bluebox{
-    background-color: #43c9e1;
-     color: #fff;
+    /* background-color: #43c9e1; */
+     color:blue;
+     font-size: 30px;
+     display: flex;
+    
  }
  
  
