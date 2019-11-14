@@ -1,0 +1,12 @@
+p{
+    color :black;
+    text-align: center;
+    font: bolder;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-style: oblique;
+    }
