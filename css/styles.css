@@ -1,6 +1,16 @@
 
 h5{
     margin-top:50px; 
-    font-size: 1500%;
+    font-size: 150%;
     font-family: 'Cuprum', sans-serif;
+    
+}
+.container{
+    width: 80%;
+    /* margin: 0 auto; */
+    
+    font-family: 'Cuprum', sans-serif;
+}
+.carousel-caption{
+
 }
