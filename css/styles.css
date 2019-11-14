@@ -1,5 +1,7 @@
  #form-card { background-color:clear;
-    align-items: center;
+    align-content: center;
+    margin-left: 20%;
+    background-color: none;
 }
 .service-form {background-color: none;
 
@@ -22,7 +24,7 @@
 #security {
     height: 250px;
     width: 250px;
-    float: right;
+    
 }
 #team {
     height: 250px;
