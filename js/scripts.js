@@ -25,7 +25,7 @@ $(function(){
         
         var phoneInput = $("#phone").value
     
-        var quotationTwo = new Quotation(servicesInput, vehicleInput, firstNameInput, secondNameInput, emailInput, phoneInput)
+        var quotationTwo = new Quotation(servicesInput, errandInput, firstNameInput, secondNameInput, emailInput, phoneInput)
         quotationTwo.listItems()
         $("#displayService").show()
         $("#displayErrand").show(quotationTwo.errandInput)
