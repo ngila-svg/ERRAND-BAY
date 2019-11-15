@@ -98,5 +98,95 @@ a{
 }
 .service-form {background-color: none;
 
+p{
+    color :black;
+    text-align: center;
+    font: bolder;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:blue;
+    text-align: left;
+    font-style: oblique;
+    }
+ p{
+     text-align: left;
+     text-decoration: grey;
+     
+ }
+ h2{
+     color: navy;
+ }
+ h3{
+     color: blue;
+ }
+ h4{
+     color: blue;
+ }
+ h6{
+     color: blue;
+     font: bolder;
+     font-size: 50px;
+ }
+ h5{
+     /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_KQ2zLv8Yyug4yV2TDY3ixQur80H5E8hjtV-vpmY3j9bw6Sh&s"); */
+     color: blue;
+ }
+ header{
+    display: block;
+   font-size: 1.5em;
+   margin-block-start: 0.83em;
+   margin-block-end: 0.83em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   font-weight: bold;
+}
+ .bluebox{
+    /* background-color: #43c9e1; */
+     color:blue;
+     font-size: 30px;
+     display: flex;
+    
+ }
+ .main p{
+text-align: center;
+color: purple;
+font-style: italic;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ #form-card { background-color:clear;
+    align-content: center;
+    margin-left: 20%;
+    background-color: none;
+}
+.service-form {background-color: none;
+
+} 
+.srv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#home {
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+#electrical {
+    height: 250px;
+    width: 250px;
+}
+#security {
+    height: 250px;
+    width: 250px;
+    
+}
+#team {
+    height: 250px;
+    width: 250px;
 }
 
