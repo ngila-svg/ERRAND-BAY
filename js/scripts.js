@@ -68,6 +68,6 @@ $(function(){
         $("#text4").show();
       }).mouseleave(function(){
         $("#text4").hide();
-      })
-
+    })
+});
 })
